@@ -3,4 +3,5 @@ WechatEveryDay.memory-card.json
 .env
 test.js
 package-lock.json
+yarn.lock
 config.js
